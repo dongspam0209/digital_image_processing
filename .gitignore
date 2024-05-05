@@ -1,0 +1,5 @@
+# Ignore specific file formats
+*.png
+*.pdf
+*.docx
+*.jpg
