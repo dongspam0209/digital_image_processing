@@ -1,4 +1,4 @@
-📷 About basic digital image processing with C++
+📷 About basic digital image processing with C++ which I learned from Inha Univ Digital Image Processing Course.
 
 Every code has a related report file in PDF format. Please check.
 
