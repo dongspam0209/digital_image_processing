@@ -9,4 +9,4 @@ openCV: 3.x
 
 check the settings of the projects with pdf below👇
 
-[2주차 실습 강의노트.pdf](https://github.com/dongspam0209/digital_image_processing/files/15213055/2.pdf)
+[installation.pdf](https://github.com/dongspam0209/digital_image_processing/files/15213062/installation.pdf)
