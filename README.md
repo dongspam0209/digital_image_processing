@@ -1,5 +1,6 @@
 📷 About basic digital image processing with C++
 
+Every code has a related report file in PDF format. Please check.
 
 ---
 
